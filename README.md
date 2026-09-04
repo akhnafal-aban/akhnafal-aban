@@ -13,10 +13,6 @@ Backend-leaning generalist in Jakarta. I build with Laravel, Python, and Swift â
 
 ![Laravel](https://img.shields.io/badge/Laravel-php-red) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-## Stats
-
-![GitHub stats](https://github-readme-stats-teal-three-39.vercel.app/api?username=akhnafal-aban&show_icons=true&hide_title=true&v=2)
-
 ## Contact
 
 - Email: akhnafal03@gmail.com
