@@ -15,7 +15,7 @@ Backend-leaning generalist in Jakarta. I build with Laravel, Python, and Swift â
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats-teal-three-39.vercel.app/api?username=akhnafal-aban&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats-teal-three-39.vercel.app/api?username=akhnafal-aban&show_icons=true&hide_title=true&v=2)
 
 ## Contact
 
