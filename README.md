@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?color=0:0A0E27,100:1F2937&height=140&section=header&type=waving&text=Noor%20Akhnafal%20Aban&fontSize=32&fontColor=FFFFFF&fontAlignY=48" alt="Noor Akhnafal Aban" />
+<img width="100%" src="https://capsule-render.vercel.app/api?color=0:0A0E27,100:1F2937&height=140&section=header&type=waving&text=Growth%20begins%20when%20you%20stop%20assuming%20you%20already%20know%20enough.&fontSize=25&fontColor=FFFFFF&fontAlignY=38&desc=Stay%20curious.%20Question%20deeply.&descSize=18&descAlignY=62&descColor=FFFFFF" alt="Growth begins when you stop assuming you already know enough Stay curious. Question deeply." />
 
 <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&width=650&height=45&center=true&vCenter=true&lines=Backend-leaning+generalist+%C2%B7+Jakarta+%C2%B7+Open+to+work"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&width=650&height=45&center=true&vCenter=true&lines=Software+Engineer+%C2%B7+Jakarta+%C2%B7+Open+to+work" alt="Backend-leaning generalist · Jakarta · Open to work" /></a>
 
