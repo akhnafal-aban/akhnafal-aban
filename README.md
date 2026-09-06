@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?color=0:0A0E27,100:1F2937&height=140&section=header&type=waving&text=Growth%20begins%20when%20you%20stop%20assuming%20you%20already%20know%20enough.&fontSize=25&fontColor=FFFFFF&fontAlignY=38&desc=Stay%20curious.%20Question%20deeply.&descSize=18&descAlignY=62&descColor=FFFFFF">
-  <img width="100%" src="https://capsule-render.vercel.app/api?color=0:E2E8F0,100:94A3B8&height=140&section=header&type=waving&text=Growth%20begins%20when%20you%20stop%20assuming%20you%20already%20know%20enough.&fontSize=25&fontColor=0A0E27&fontAlignY=38&desc=Stay%20curious.%20Question%20deeply.&descSize=18&descAlignY=62&descColor=0A0E27" alt="Growth begins when you stop assuming you already know enough. Stay curious. Question deeply." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img width="100%" src="./assets/banner-light.svg" alt="Growth begins when you stop assuming you already know enough. Stay curious. Question deeply." />
 </picture>
 
 <h2 align="center">Growth begins when you stop assuming you already know enough. Stay curious. Question deeply.</h2>
@@ -90,7 +90,7 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%230A0E27,0%231F2937&height=120&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%23E2E8F0,0%2394A3B8&height=120&section=footer" alt="footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img width="100%" src="./assets/footer-light.svg" alt="footer" />
 </picture>
 </div>
