@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?color=0:0A0E27,100:1F2937&height=140&section=header&type=waving&text=Noor%20Akhnafal%20Aban&fontSize=32&fontColor=FFFFFF&fontAlignY=40&desc=Backend-leaning%20generalist%20%C2%B7%20Jakarta%20%C2%B7%20Open%20to%20work&descSize=16&descColor=A8B2C1&descAlignY=58" alt="Noor Akhnafal Aban — backend-leaning generalist" />
+<img width="100%" src="https://capsule-render.vercel.app/api?color=0:0A0E27,100:1F2937&height=140&section=header&type=waving&text=Noor%20Akhnafal%20Aban&fontSize=32&fontColor=FFFFFF&fontAlignY=48" alt="Noor Akhnafal Aban" />
+
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&width=650&height=45&center=true&vCenter=true&lines=Backend-leaning+generalist+%C2%B7+Jakarta+%C2%B7+Open+to+work"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&width=650&height=45&center=true&vCenter=true&lines=Backend-leaning+generalist+%C2%B7+Jakarta+%C2%B7+Open+to+work" alt="Backend-leaning generalist · Jakarta · Open to work" /></a>
 
 <a href="https://www.linkedin.com/in/akhnaf-aban/"><img src="https://img.shields.io/badge/-akhnaf--aban-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:akhnafal03@gmail.com"><img src="https://img.shields.io/badge/-akhnafal03@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
