@@ -11,31 +11,55 @@
 
 </div>
 
-### 🛠️ Languages, Frameworks, and Tools
+<!--Skills-->
 
-<p>
-<img alt="Go" title="Go" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">&nbsp;
-<img alt="Swift" title="Swift" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">&nbsp;
-<img alt="PHP" title="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;
-<img alt="Java" title="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
-<img alt="Python" title="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
-<img alt="JavaScript" title="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
-<img alt="Laravel" title="Laravel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">&nbsp;
-<img alt="Node.js" title="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
-<img alt="Express" title="Express" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">&nbsp;
-<img alt="MySQL" title="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;
-<img alt="PostgreSQL" title="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;
-<img alt="MongoDB" title="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
-<img alt="SQLite" title="SQLite" height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">&nbsp;
-<img alt="Ubuntu" title="Ubuntu" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">&nbsp;
-<img alt="Docker" title="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
-<img alt="Nginx" title="Nginx" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">&nbsp;
-<img alt="Git" title="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
-<img alt="Postman" title="Postman" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">&nbsp;
-<img alt="VS Code" title="VS Code" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</p>
+<a href="https://github.com/akhnafal-aban">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
-`systemd` · `CI/CD` · `REST APIs` · `OOP` · `SSH` · `application security` · `TablePlus` · `Laragon` · `Opencode` · `Model Context Protocol (MCP)` · `prompt engineering` · `autonomous workflows`
+<h3 align="center">【﻿Ｓｋｉｌｌｓ】</h3>
+
+<a href="https://github.com/akhnafal-aban">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<div align="center">
+
+| **Programming_Languages** | **Frameworks_&_Platforms** | **Databases** | **Backend_&_Systems** | **Tools** | **Agentic_AI** |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center">[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Opencode](https://img.shields.io/badge/Opencode-2088FF?style=flat-square)](https://github.com/akhnafal-aban)</p> |
+| <p align="center">[![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-416E96?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![MCP](https://img.shields.io/badge/Model_Context_Protocol-5C5CDB?style=flat-square)](https://github.com/akhnafal-aban)</p> |
+| <p align="center">[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-3078C6?style=flat-square)](https://github.com/akhnafal-aban)</p> |
+| <p align="center">[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![systemd](https://img.shields.io/badge/systemd-3078C6?style=flat-square&logo=systemd&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![TablePlus](https://img.shields.io/badge/TablePlus-3776AB?style=flat-square)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Autonomous_Workflows](https://img.shields.io/badge/Autonomous_Workflows-00ADD8?style=flat-square)](https://github.com/akhnafal-aban)</p> |
+| <p align="center">[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center"></p> | <p align="center">[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center">[![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Laragon](https://img.shields.io/badge/Laragon-FF2D20?style=flat-square)](https://github.com/akhnafal-aban)</p> | <p align="center">[![Agent_Skills](https://img.shields.io/badge/Agent_Skills-FF6C37?style=flat-square)](https://github.com/akhnafal-aban)</p> |
+| <p align="center">[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center"></p> | <p align="center"></p> | <p align="center">[![REST_API](https://img.shields.io/badge/REST_API-00ADD8?style=flat-square)](https://github.com/akhnafal-aban)</p> | <p align="center">[![GitHub_Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center"></p> |
+| <p align="center"></p> | <p align="center"></p> | <p align="center"></p> | <p align="center">[![SSH](https://img.shields.io/badge/SSH-181717?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/akhnafal-aban)</p> | <p align="center"></p> | <p align="center"></p> |
+
+</div>
+
+<!--Stats-->
+
+<a href="https://github.com/akhnafal-aban">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">【﻿Ｓｔａｔｓ】</h3>
+
+<a href="https://github.com/akhnafal-aban">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhnafal-aban&theme=algolia" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhnafal-aban&theme=algolia" width="31%" align="left"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhnafal-aban&theme=algolia" width="31%" align="center"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhnafal-aban&theme=algolia" width="31%" align="right"/>
+
+</div>
 
 ### 🏗️ My Projects
 
