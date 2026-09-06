@@ -7,6 +7,7 @@ iOS & Backend Software Engineer in Jakarta. I build maintainable digital product
 - **[AkhnaFin](https://github.com/akhnafal-aban/AkhnaFin)** - personal finance iOS app. Five capture paths (Siri, natural language, voice, receipt photos, manual) funnel into one parse, draft, confirm pipeline. SwiftData + CloudKit, logic isolated in a testable local package.
 - **[Danantara-Research](https://github.com/akhnafal-aban/Danantara-Research)** - topic modeling of Twitter conversations about Danantara using BERTopic and indoSBERT embeddings. Full research pipeline: cleaning, modeling, tuning, report.
 - **[Project Task Reminder](https://github.com/akhnafal-aban/laravel-project-task-reminder)** - Laravel project management app with role-based dashboards, task reminders, and email notifications. Dockerized.
+- **[asset-tracker-be](https://github.com/akhnafal-aban/asset-tracker-be)** - Go REST API for a personal asset tracker. Stdlib `net/http` routing, `handler → service → repository` layering, SQLite behind a repository interface, graceful shutdown, `log/slog` request logging.
 - **[Virtual Tour FEB UNDIP](https://github.com/akhnafal-aban/virtual-tour-undip-feb-horizon)** - 360° campus virtual tour, React + Vite + Tailwind. *(team project)*
 
 ## Stack
