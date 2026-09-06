@@ -1,17 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%230A0E27,0%231F2937&height=180&section=header" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?color=0:0A0E27,100:1F2937&height=140&section=header&type=waving&text=Noor%20Akhnafal%20Aban&fontSize=32&fontColor=FFFFFF&fontAlignY=40&desc=Backend-leaning%20generalist%20%C2%B7%20Jakarta%20%C2%B7%20Open%20to%20work&descSize=16&descColor=A8B2C1&descAlignY=58" alt="Noor Akhnafal Aban — backend-leaning generalist" />
 
 <a href="https://www.linkedin.com/in/akhnaf-aban/"><img src="https://img.shields.io/badge/-akhnaf--aban-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:akhnafal03@gmail.com"><img src="https://img.shields.io/badge/-akhnafal03@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://github.com/akhnafal-aban?tab=followers"><img src="https://img.shields.io/github/followers/akhnafal-aban?label=Follow&style=flat-square" alt="followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=akhnafal-aban&style=flat-square&color=blue" alt="views"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=650&lines=Hi+there+%F0%9F%91%8B+I'm+Noor+Akhnafal+Aban;Backend-leaning+generalist+in+Jakarta;Go+%C2%B7+PHP+%C2%B7+Swift+%C2%B7+Python;Currently+open+to+work" alt="typing" />
-
 </div>
-
-Backend-leaning generalist in Jakarta. I build web systems, data pipelines, and iOS apps — and run them on Linux servers myself. Currently open to work.
 
 ### 🛠️ Languages, Frameworks, and Tools
 
