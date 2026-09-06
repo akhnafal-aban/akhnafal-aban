@@ -11,7 +11,17 @@ iOS & Backend Software Engineer in Jakarta. I build maintainable digital product
 
 ## Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-php-red) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+**Languages:** Swift, Go, PHP, SQL, Java, Python, JavaScript
+
+**Frameworks & Platforms:** SwiftUI, Laravel, Express, Node.js
+
+**Databases:** MySQL, PostgreSQL, MongoDB
+
+**Backend & Systems:** Ubuntu Linux administration, Docker, systemd, Nginx, CI/CD, REST APIs, OOP, debugging, logging, application security, SSH, deployment
+
+**Tools:** Git, Postman, Visual Studio Code, TablePlus, Laragon, GitHub Desktop
+
+**Agentic AI:** Opencode, Hermes agent, Model Context Protocol (MCP), agent plugins, agent skills, prompt engineering, autonomous workflows
 
 ## Contact
 
