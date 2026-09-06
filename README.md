@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?color=0:0A0E27,100:1F2937&height=140&section=header&type=waving&text=Growth%20begins%20when%20you%20stop%20assuming%20you%20already%20know%20enough.&fontSize=25&fontColor=FFFFFF&fontAlignY=38&desc=Stay%20curious.%20Question%20deeply.&descSize=18&descAlignY=62&descColor=FFFFFF" alt="Growth begins when you stop assuming you already know enough Stay curious. Question deeply." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?color=0:0A0E27,100:1F2937&height=140&section=header&type=waving&text=Growth%20begins%20when%20you%20stop%20assuming%20you%20already%20know%20enough.&fontSize=25&fontColor=FFFFFF&fontAlignY=38&desc=Stay%20curious.%20Question%20deeply.&descSize=18&descAlignY=62&descColor=FFFFFF">
+  <img width="100%" src="https://capsule-render.vercel.app/api?color=0:E2E8F0,100:94A3B8&height=140&section=header&type=waving&text=Growth%20begins%20when%20you%20stop%20assuming%20you%20already%20know%20enough.&fontSize=25&fontColor=0A0E27&fontAlignY=38&desc=Stay%20curious.%20Question%20deeply.&descSize=18&descAlignY=62&descColor=0A0E27" alt="Growth begins when you stop assuming you already know enough. Stay curious. Question deeply." />
+</picture>
 
 <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&width=650&height=45&center=true&vCenter=true&lines=Backend-leaning+generalist+%C2%B7+Jakarta+%C2%B7+Open+to+work"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&width=650&height=45&center=true&vCenter=true&lines=Software+Engineer+%C2%B7+Jakarta+%C2%B7+Open+to+work" alt="Backend-leaning generalist · Jakarta · Open to work" /></a>
 
@@ -51,13 +54,25 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhnafal-aban&theme=algolia" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhnafal-aban&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhnafal-aban&theme=github" width="100%" alt="profile details"/>
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhnafal-aban&theme=algolia" width="31%" align="left"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhnafal-aban&theme=algolia" width="31%" align="center"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhnafal-aban&theme=algolia" width="31%" align="right"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhnafal-aban&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhnafal-aban&theme=github" width="31%" align="left" alt="repos per language"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhnafal-aban&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhnafal-aban&theme=github" width="31%" align="center" alt="most commit language"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhnafal-aban&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhnafal-aban&theme=github" width="31%" align="right" alt="productive time"/>
+</picture>
 
 </div>
 
@@ -72,5 +87,8 @@
 | [Virtual Tour FEB UNDIP](https://github.com/akhnafal-aban/virtual-tour-undip-feb-horizon) — 360° campus virtual tour *(team project)* | [![Stars](https://img.shields.io/github/stars/akhnafal-aban/virtual-tour-undip-feb-horizon?style=flat-square)](https://github.com/akhnafal-aban/virtual-tour-undip-feb-horizon/stargazers) | [![Forks](https://img.shields.io/github/forks/akhnafal-aban/virtual-tour-undip-feb-horizon?style=flat-square)](https://github.com/akhnafal-aban/virtual-tour-undip-feb-horizon/network/members) | [![Issues](https://img.shields.io/github/issues/akhnafal-aban/virtual-tour-undip-feb-horizon?style=flat-square)](https://github.com/akhnafal-aban/virtual-tour-undip-feb-horizon/issues) |
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%230A0E27,0%231F2937&height=120&section=footer" alt="footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%230A0E27,0%231F2937&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%23E2E8F0,0%2394A3B8&height=120&section=footer" alt="footer" />
+</picture>
 </div>
