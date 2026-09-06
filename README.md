@@ -1,6 +1,6 @@
 # Noor Akhnafal Aban
 
-Backend-leaning generalist in Jakarta. I build with Laravel, Python, and Swift — web systems, data pipelines, and iOS apps. Currently open to work.
+iOS & Backend Software Engineer in Jakarta. I build maintainable digital products with Swift, Laravel, and Python, from backend systems and APIs to native iOS applications. Currently open to work.
 
 ## Featured projects
 
