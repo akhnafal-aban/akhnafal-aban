@@ -15,57 +15,29 @@ Backend-leaning generalist in Jakarta. I build web systems, data pipelines, and 
 
 ### 🛠️ Languages, Frameworks, and Tools
 
-#### Languages
-
 <p>
-<img alt="Go" title="Go" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-<img alt="Swift" title="Swift" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-<img alt="PHP" title="PHP" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img alt="Java" title="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img alt="Python" title="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="JavaScript" title="JavaScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img alt="Go" title="Go" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">&nbsp;
+<img alt="Swift" title="Swift" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">&nbsp;
+<img alt="PHP" title="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;
+<img alt="Java" title="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
+<img alt="Python" title="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
+<img alt="JavaScript" title="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
+<img alt="Laravel" title="Laravel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">&nbsp;
+<img alt="Node.js" title="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
+<img alt="Express" title="Express" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">&nbsp;
+<img alt="MySQL" title="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;
+<img alt="PostgreSQL" title="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;
+<img alt="MongoDB" title="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
+<img alt="SQLite" title="SQLite" height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">&nbsp;
+<img alt="Ubuntu" title="Ubuntu" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">&nbsp;
+<img alt="Docker" title="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
+<img alt="Nginx" title="Nginx" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">&nbsp;
+<img alt="Git" title="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
+<img alt="Postman" title="Postman" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">&nbsp;
+<img alt="VS Code" title="VS Code" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </p>
 
-#### Frameworks & Platforms
-
-<p>
-<img alt="SwiftUI" title="SwiftUI" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-<img alt="Laravel" title="Laravel" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-<img alt="Node.js" title="Node.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img alt="Express" title="Express" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-</p>
-
-#### Databases
-
-<p>
-<img alt="MySQL" title="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img alt="PostgreSQL" title="PostgreSQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img alt="MongoDB" title="MongoDB" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</p>
-
-#### Backend & Systems
-
-<p>
-<img alt="Ubuntu" title="Ubuntu" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-<img alt="Docker" title="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img alt="Nginx" title="Nginx" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-</p>
-
-`systemd` · `CI/CD` · `REST APIs` · `OOP` · `debugging` · `logging` · `application security` · `SSH` · `deployment`
-
-#### Tools
-
-<p>
-<img alt="Git" title="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img alt="Postman" title="Postman" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-<img alt="VS Code" title="VS Code" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</p>
-
-`TablePlus` · `Laragon` · `GitHub Desktop`
-
-#### Agentic AI
-
-`Opencode` · `Hermes agent` · `Model Context Protocol (MCP)` · `agent plugins` · `agent skills` · `prompt engineering` · `autonomous workflows`
+`systemd` · `CI/CD` · `REST APIs` · `OOP` · `SSH` · `application security` · `TablePlus` · `Laragon` · `Opencode` · `Model Context Protocol (MCP)` · `prompt engineering` · `autonomous workflows`
 
 ### 🏗️ My Projects
 
